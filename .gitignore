@@ -1,0 +1,5 @@
+# Archivos que NO se versionan
+*.tmp
+claves.env
+Thumbs.db
+.DS_Store

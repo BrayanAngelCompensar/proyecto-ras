@@ -9,3 +9,9 @@ Proyecto final · Fundamentos de Construcción de Software
 
 ## Proyecto
 App contable SaaS: software base estándar, con opción de personalización a la medida para cada cliente.
+
+
+## Cómo trabajamos
+- Roles: docs/roles.md
+- Acuerdos: docs/acuerdos.md
+- Tareas: docs/backlog.md

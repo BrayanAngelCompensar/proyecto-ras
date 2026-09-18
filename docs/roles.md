@@ -1,7 +1,7 @@
 # Roles del equipo
 
-| Rol           | Responsable |
-|---------------|-------------|
+| Rol           | Responsable     |
+|---------------|-----------------|
 | Líder         | <Brayan Angel>  |
 | Desarrollo    | <Brayan Angel>  |
 | Pruebas       | <Ronald Prasca> |

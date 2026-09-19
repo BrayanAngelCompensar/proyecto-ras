@@ -10,4 +10,4 @@ Dias Sabados, 2 horas por Meet negociables segun disponibilidad del equipo
 Votacion
 
 ## Conflictos
-Votamos
+Realizamos una reunion virtual para llegar a acuerdos.

@@ -8,3 +8,4 @@ Enlace del tablero: <URL del proyecto en Azure DevOps>
 - [ ] Diseñar modelo de datos (módulos Contabilidad, Cartera, Financiera, Inventarios, Terceros)
 - [ ] Definir arquitectura del sistema (Django + frontend)
 - [ ] Asignar responsables por módulo entre los integrantes del equipo
+- [ ] Diseñar la pantalla de inicio de sesión y registro de usuarios

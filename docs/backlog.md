@@ -9,3 +9,4 @@ Enlace del tablero: <URL del proyecto en Azure DevOps>
 - [ ] Definir arquitectura del sistema (Django + frontend)
 - [ ] Asignar responsables por módulo entre los integrantes del equipo
 - [ ] Diseñar la pantalla de inicio de sesión y registro de usuarios
+- [ ] configurar cómo se registrarán las facturas de venta y de compra 

@@ -15,3 +15,8 @@ App contable SaaS: software base estándar, con opción de personalización a la
 - Roles: docs/roles.md
 - Acuerdos: docs/acuerdos.md
 - Tareas: docs/backlog.md
+
+## Documentación del proyecto
+
+- Módulos: docs/modulos.md
+- Requisitos sencillos: docs/requisitos.md
